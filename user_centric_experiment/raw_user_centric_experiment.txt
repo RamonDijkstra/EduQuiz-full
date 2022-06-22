@@ -1,0 +1,515 @@
+Excel row: 2 Test instance: 1
+
+Alice's mother died when she was five. Although her brothers and sisters were loving and caring, their love couldn't take the place of a mother's. In 1925 Alice became my mother and told me that her family couldn't even afford her a doll.
+One afternoon in December 1982, when I was getting ready for Christmas, I suddenly decided to buy two dolls, one for my five-year-old daughter, Katie, and one for my old mother.
+Things went smoothly when a friend told me that his dad, who played Santa Claus in my area, would be willing to make a visit on Christmas morning to our home with the gifts! Knowing that my parents would also come to my house, I began to get ready for the most memorable day of my mother's life.
+Christmas Day arrived and so did Santa Claus at the planned time. Katie was very excited and happy all the time to welcome the Santa. My mother was enjoying watching Katie welcoming this special guest. As Santa turned to leave he looked again into his bag and took out one more gift. As he asked who Alice was, my mother, without thinking of her name being called, said that she in fact was Alice. Santa handed her the gift with a message card that read:
+For Alice:
+I was cleaning out my sleigh   before my trip this year and came across this package that should be sent on December 25, 1925. The gift inside has aged, but I felt that you might still wish to have it. Many apologies for the lateness of the gift.
+Love,
+Santa Claus
+My mother was very excited and deeply moved to tears. She couldn't speak but only held tightly in her arms the doll she had waited fifty-seven years to receive as tears of joy flew down her face. That doll made my mother the happiest "child".
+
+Original quiz:
+Question: Why couldn't Alice get a doll as a child?
+False answer: Because her family disliked her.
+False answer: Because her mother died quite early.
+False answer: Because Alice didn't love dolls.
+True answer: Because her family was very poor.
+
+Generated quiz:
+Question: How did the writer feel when Santa Claus turned to leave?
+False answer: Excited.
+False answer: Happy.
+True answer: Sorry.
+False answer: Nervous.
+
+----------------------------------------------------------------------------------------
+
+Excel row: 8 Test instance: 55
+
+Five-year-old Jocelyn Rojas spent all day playing happily with her friends outside her grandmother's apartment building. Her mom, Jaimee, kept her eye on the little girl from a window. At about 4 p.m., Jocelyn walked around the corner of the building to get her bicycle. However, half an hour later, she disappeared. Jaimee called 911.
+A short time later, police officers and firefighters crowded inthe area, blocking streets and searching the neighborhood. Officers handed out photos of the girl wearing thick-framed glasses.
+Temar Boggs, 15, a school athlete in track, was with some friends moving a couch into the apartment of his elderly neighbor when one officer approached him and asked if he'd seen Jocelyn. Unfortunately, none of them had seen her. A little bit later, Temar and his friends went to check out the situation. By 6:30 p.m., Jocelyn had been missing for more than two hours, and the search team was worried that the sun would set before she was found.
+Just at that moment, Temar felt an intense emotion that he was going to find her. He and his friend Chris Garcia, 13, rode alongside, simply keeping a sharp eye out as they circled around. Then Temar spotted a car circling around, as if the driver were unfamiliar with the neighborhood. Temar cycled close and made eye contact with the man behind the wheel, an older guy wearing a red-and-white striped shirt, and saw a tiny blond girl in the passenger seat. Temar instantly realized it must be the missing girl.
+The boys cycled after the car, but the driver kept moving, winding his way through the neighborhood.
+Finally, the driver had to park the car ahead of them and pushed open the passenger-side door. A girl slipped out of the car. It was Jocelyn. Temar got off his bike, and carried her to the police. The kidnapper sped away.
+A police report later identified the man as a 63-ycar-old sex offender. He is still _ .
+Neil Harkins, chief of the Manheim Police Department, says "The boys' heroics are 'something we don't normally hear about.' It is a very brave thing for young boys to do that." But when asked, Temar, now a tenth-grade student at Lucy Laney High School, says "I didn't do it for attention. I just wanted to help."
+
+Original quiz:
+Question: What was Temar doing when the police were searching for Jocelyn?
+False answer: He and his friends were having a cycling race.
+True answer: He and his friends were helping his neighbor moving a couch.
+False answer: He was helping the police hand out the photos of the missing girl.
+False answer: He and his friends were playing outside the building.
+
+Generated quiz:
+Question: How did Jocelyn disappear?
+False answer: She disappeared when she was playing with her friends.
+True answer: She disappeared from the spot where she was playing.
+False answer: She disappeared from her grandmother's apartment.
+False answer: She disappeared when she was getting her bike.
+
+----------------------------------------------------------------------------------------
+
+Excel row: 9 Test instance: 64
+
+Best places to visit in Australia
+Are you looking for the best places to see in Australia? Here are the top 5 places to visit in Australia. It includes the best, the most beautiful and the most famous.
+Sydney
+For those who have made a flight from the other side of the world, if you come and don't see Sydney, it is a bit like going to Germany and not drinking a beer, or to England and not seeing London, or America and not trying a hot dog. There is plenty to see and do in Sydney apart from the well known attractions of the Harbour Bridge, the Opera House, and Bondi beaches.
+Byron Bay
+Located in New South Wales, just south of the Queensland border, Byron Bay is popular with not just international tourists, but is also a favorite holiday destination of Australians. The lighthouse is amazing at sunset (and it is the most easterly part of mainland Australia). There are a range of music festivals over the year that attract international and local musicians alike.
+The Great Ocean Road
+The Great Ocean Road, located in Victoria, is one of the best scenic drives of the world. Its official length is 243 kms (roughly 150 miles), but it will take you a full day to enjoy it due to the narrow and windy traffic lanes (only one in each direction).
+Daintree Rainforest
+Located in northern Queensland, roughly 110 kms north of Cairns, the rainforest is a nature wonderland. It is Australia's largest rainforest, about 20% of Australia's native bird species can be found within the Daintree.
+The Great Barrier Reef
+Located in Queensland, this attraction is one of those attractions that are actually known by everyone. Extending for about 2,300 kms, it is home to many rare, endangered and unique animals and plant species.
+
+Original quiz:
+Question: Which places will you go in Australia if you are interested in music?
+True answer: Byron Bay and Sydney
+False answer: Sydney and the Great Barrier Reef
+False answer: The Great Ocean Roadand Byron Bay
+False answer: Byron Bay and Daintree Rainforest
+
+Generated quiz:
+Question: What can you do if you come to Australia without seeing Sydney?
+False answer: You can see the Opera House and the Harbour Bridge.
+False answer: You can enjoy the music festivals and have a try of the hot dog.
+False answer: You can visit the Daintree Rainforest and the Great Barrier Reef.
+True answer: You can have a beer in Germany or drink a hot dog in America.
+
+----------------------------------------------------------------------------------------
+
+Excel row: 16 Test instance: 127
+
+Teachers and textbooks  _ -- your future could be under threat from a quickly developing and very smart technology.
+     University of California researchers led by Jacob White hill recently programmed teaching robots to react to facial expression. Whitehill's achievement marked a major step forward in the way people could one day learn by establishing facial expression recognition in robot teachers.
+     The teaching robots or, Intelligent Tutoring Systems (ITS) are computer systems that provide personalized instruction and feedback to students without human intervention. The facial expression recognition allows a computer to react according to expressions a user makes.
+     He said that the system was an important development in improving learning systems.
+"Classical ITS typically have a somewhat rigid architecture of 'first I ask a questions then I wait for a responses then I talk some more; then I wait for another response.' Facial expression recognition, I believe, will allow the feedback from student to teacher to happen while the robot teacher is talking," Whitehill said.
+     Experts agree the latest developments in ITS open new possibilities for how people could learn. University of Memphis researcher, Dr Andrew Olney, who recently received a US$ I. 3 million grant to develop an ITS, said the key to future learning will be enabling interactive , one-on-one instruction.
+     "The technology can benefit these more advanced learning scenarios ," he said.
+     Although robot teachers of varying abilities have existed for more than 30 years, ITS developments such as Whitehill's and Olney's are pushing beliefs that robots could soon be as effective as-- if not more effective than human teachers.
+     "The ITS which have been developed are already better teachers than people who have no experience," Olney said.
+     So, what is the future for today's teachers, classrooms, and textbooks?
+
+Original quiz:
+Question: Compared with classical ITS, developed ITS can
+False answer: make different facial expressions
+True answer: somewhat interact with the students
+False answer: ask and answer questions in turns
+False answer: provide feedback to students in less time
+
+Generated quiz:
+Question: What will the future look like for today's teachers, classrooms, and textbooks?
+False answer: The textbooks will be replaced by robots.
+False answer: The teachers will be replaced by robots.
+True answer: The future is uncertain.
+False answer: The classrooms will be rebuilt with robots.
+
+----------------------------------------------------------------------------------------
+
+Excel row: 17 Test instance: 136
+
+Hello-Hello, a creative mobile language learning company, announced the launch of Hello-Hello World, a free application for the iPad that helps people learn a new language by connecting them with native speakers through social networking.
+The application lets users complete language lessons and connect with Hello-Hello's global community of language learners with members in almost 100 countries to help each other in the learning process. 
+Hello-Hello World is available in 11 different languages and allows users to submit both oral and writing exercises for their friends and Hello-Hello's language experts to review. Users are also able to provide written feedback on their friend's exercises directly from their mobile devices.
+"The most effective way to learn a new language is through total immersion  ,"said Sarah Gontijo, founder and CEO of Hello-Hello. "However, not everyone has the opportunity to live in another country. Hello-Hello World brings the convenience of connecting with native speakers anytime, from anywhere. This can help users not only learn the language but also understand the culture."
+Hello-Hello World lets users synchronize   their information with the Hello-Hello Cloud and then access the content from any mobile device or computer. The application is first being released for the ipad and will become available on a variety of platforms, including the iPhone, Android and Blackberry.
+The application arrives at a time when tablet   computing is driving the creation of new educational tools, such as Hell-Hello World. Many schools and colleges are finding ways to adapt mobile technology for classroom learning. "The market is hot for such pioneering in education and social networking," said Gontijo. "Hell-Hello promises to be the invention that will set the ball rolling and bring innovation to an industry that has seen little change over the years."
+Technology research firm Gartner predicts that app-store downloads worldwide will double to $17.7 billion as the year closes, and that app-income will hit $15.1 billion, tripling the impact of last year's sales. App-downloads are expected to continue to jump to 185 billion by 2014, at which point worldwide tablet sales are projected to surpass   208 million units.
+
+Original quiz:
+Question: What does Sarah Gontijo think it takes to learn a new language effectively?
+False answer: Hard work and practice.
+True answer: A language learning environment.
+False answer: Cultural understanding.
+False answer: Modern mobile technology.
+
+Generated quiz:
+Question: What does the application of Hello-Hello World bring convenience to?
+False answer: Providing feedback on friends' exercises.
+False answer: Submitting written exercises.
+True answer: Connecting with native speakers.
+False answer: Learning a new language.
+
+----------------------------------------------------------------------------------------
+
+Excel row: 18 Test instance: 145
+
+The Haitian tsunami gave scientists a chance to find out how well vital and potentially life-saving warning systems were working.
+Noaa's Pacific Marine Environmental Laboratory has developed a warning system that picks up signals of tsunamis directly from the sea-floor.
+It is called Dart-the Deep-ocean Assessment and Reporting of Tsunamis. If seismometers  detect an earthquake, the Dart buoys  will determine what is happening to sea levels, and whether a big wave might be on the way. This information is then sent via satellite to a central location which can organize an alarm. Within 50 minutes of the Haiti earthquake, this system was able to issue an alarm to other countries in the Caribbean to say that a small tsunami had been caused to start, and that was unlikely to affect them.
+Dr Bernard said, "The first 30 minutes following the earthquake, we have to rely on education." The critical aspects of this are: do you feel the earthquake; do you see the ocean draw down; and do you hear that loud roar? If so, you should run for higher ground.
+"But after the first few minutes, it's crucial that we have the technology--the measurements to avoid unnecessary evacuation and tell people when it is safe to return." Right now, there are 50 of these Dart buoys all over the globe--four of which are in the Caribbean.
+Dr Bernard says that, with 75 to 100 buoys worldwide, this system could provide global tsunami warnings within one hour.
+"That's for everywhere we know that tsunamis have happened. If we wanted to go to half an hour detection, we could probably double or multiply by four times that number," he said.
+"In some countries, including Haiti, there may not be enough resources to support a specific tsunami warning centre for something that happens so infrequently."
+He said that this system was relatively inexpensive to fix and operate.
+"To get it down to an hour for everywhere affected would cost $50m initial investment and then 10% of that to maintain it," he said.
+"That's not a terribly expensive system considering the potential savings of lives."
+
+Original quiz:
+Question: How many buoys would at least be needed for global tsunami warnings within half an hour?
+False answer: 75
+False answer: 50
+True answer: 150
+False answer: 100
+
+Generated quiz:
+Question: What is the most important aspect to be followed in the early stage after a earthquake?
+False answer: The technology.
+True answer: The early-warning system.
+False answer: The measurements.
+False answer: The educational work.
+
+----------------------------------------------------------------------------------------
+
+Excel row: 19 Test instance: 154
+
+Directions: Read the following passage. The passage is followed by several questions or unfinished statements. For each of them there are four choices marked A,B,C and D. Choose the one that fits best according to the information given in the passage.
+ 
+It may be open to discussion which city is the most beautiful in the world. But in terms of " the most livable", Melbourne has ranked top in a survey done by the Economist Intelligence Unit (EIU) in August. In fact, four cities Down Under are among the top ten most livable cities.
+The climate in Australia is warm and mild, particularly in major coastal cities. As a result, people spend much time outdoors. They go to the beach, to the countryside, or play sports outdoors in fields. 
+Take Melbourne for example. The city features many open green spaces and beautiful long beaches. Melburnians 
+(people from Melbourne) have a strong love for sports. The city hosts the annual Australia Open, 
+the Formula One Grand Prix, cricket, rugby and homegrown football. It is also home to museums, art exhibitions and drama festivals.
+The comfortable environment has encouraged many people to migrate  to the country and Australia is known for being very multicultural or its cultural diversity .
+"We have tried to introduce a sense of belonging in Australia," said Chris Bowen, the Australian Minister for Immigration . "Multiculturalism is about inviting every individual member of society to be everything they can be ... to develop as individuals."
+This could be the reason behind another Australia quality that Guardian reporter Stephen Brook has noticed: Australians do patriotism  much better than the Brits.
+"I once witnessed two Australian viewers at a tennis tournament show more support for the Aussie player than the rest of the British arena," he wrote.
+It is also an Australian tradition to stand up for the  _ . In the 2000 Olympic Games, the Sydney public watches an African swimmer who was barely able to swim 50 meters. Even though most people in the stands knew that even they could have swum better than him at that point, they cheered his every stroke  as if he were on his way to a good medal. During the 2003 Rugby World Cup, the level of support they showed for the Japanese team surprised viewers since Japan had little hope of winning. 
+"Australians don't need to be victorious in order to feel like a worthy person. When they cheer for the underdog, seeing other human beings having the courage to take on hardship, they get the emotional satisfaction they need," wrote a blogger on convictcreations.com, a website dedicated to Australian culture.
+
+Original quiz:
+Question: What can be concluded from the article?
+False answer: The majority of Australians are fascinated with sports and art.
+False answer: Melbourne is the most culturally diverse city in the world.
+False answer: Australians are considered to be the most patriotic in the world.
+True answer: The Australian government tries to make immigrants feel at home.
+
+Generated quiz:
+Question: What makes Melbourne different from other Australian cities?
+False answer: Its multicultural culture.
+False answer: Its strong sense of belonging.
+False answer: Its comfortable environment.
+True answer: Its beautiful beaches.
+
+----------------------------------------------------------------------------------------
+
+Excel row: 21 Test instance: 172
+
+Global warming is causing more than 300,000 deaths and about $125 billion in economic losses each year, according to a report by the Global Humanitarian Forum, an organization led by Annan, the former United Nations secretary general.
+The report, to be released Friday, analyzed data and existing studies of health, disaster, population and economic trends. It found that human-influenced climate change was raising the global death rates from illnesses including malnutrition   and heat-related health problems.
+But even before its release, the report drew criticism from some experts on climate and risk, who questioned its methods and conclusions.
+Along with the deaths, the report said that the lives of 325 million people, primarily in poor countries, were being seriously affected by climate change. It projected that the number would double by 2030.
+Roger Pielke Jr., a political scientist at the University of Colorado, Boulder, who studies disaster trends, said the Forum's report was "a methodological embarrassment" because there was no way to distinguish deaths or economic losses related to human-driven global warming amid the much larger losses resulting from the growth in populations and economic development in vulnerable   regions. Dr. Pielke said that "climate change is an important problem requiring our utmost   attention." But the report, he said, "will harm the cause for action on both climate change and disasters because it is so deeply flawed  ."
+However, Soren Andreasen, a social scientist at Dalberg Global Development Partners who supervised the writing of the report, defended it, saying that it was clear that the numbers were rough estimates. He said the report was aimed at world leaders, who will meet in Copenhagen in December to negotiate a new international climate treaty.
+In a press release describing the report, Mr. Annan stressed the need for the negotiations to focus on increasing the flow of money from rich to poor regions to help reduce their vulnerability  to climate hazards while still curbing   the emissions of the heat-trapping gases. More than 90% of the human and economic losses from climate change are occurring in poor countries, according to the report.
+
+Original quiz:
+Question: What is the finding of the Global Humanitarian Forum?
+True answer: Rates of death from illnesses have risen due to global warming.
+False answer: Malnutrition has caused serious health problems in poor countries.
+False answer: Economic trends have to do with population and natural disasters.
+False answer: Global temperatures affect the rate of economic development.
+
+Generated quiz:
+Question: How does Roger Pielke Jr. feel about the report?
+False answer: He thinks highly of it.
+False answer: He is very pleased with it.
+True answer: He has serious doubts about it.
+False answer: He is strongly against it.
+
+----------------------------------------------------------------------------------------
+
+Excel row: 33 Test instance: 280
+
+London Heathrow is the biggest airport in the UK, and it also handles more international passenger traffic than any other airport in the world. For this reason, enlargement was planned and on 27th March a fifth terminal opened to help to deal with the many passengers that pass through the airport. The new terminal has taken a long time to plan and build. The idea was first proposed back in the 1980s. The opening of it has been talked about widely in the media in the UK and expectations were high for the PS4.3 billion project.
+   However, in spite of long preparations at Terminal 5 ahead of the grand opening, things soon went into a mess. There were problems from the very beginning as staff had difficulties finding car parking spaces and getting through security to get into the building. This consequently caused a delay when passengers started to arrive and large numbers of staff were not in place. Long passenger queues formed and the slow start meant that everyone had to play catch-up from the beginning. Staffs were having problems using the new systems and a baggage operator told the BBC, it was all "shambles   the moment the doors opened". The terminal has been designed to handle 12,000 bags an hour but due to a reported "lack of training and essential support that was promised", a backlog   of luggage soon appeared.
+   By lunchtime on that first day, 20 flights had been cancelled to try to alleviate the problems. Flights continued to be cancelled in the days following the opening and up to 28,000 bags have now had to be placed in temporary storage. The British Airline, the only airline operating at Terminal 5 says it is working to clear the backlog, but the negative publicity caused by the shambles has not helped the airport or the airline's reputation at all.
+
+Original quiz:
+Question: What was the difficulty that passengers met with on the very first day of the opening?
+False answer: It was difficult for them to find the right car parking spaces.
+True answer: They had to wait a long time and play catch-up when checking in.
+False answer: They were not familiar with the new systems in the building.
+False answer: It took too long to get through security to get into the building.
+
+Generated quiz:
+Question: What was the problem with the new terminal?
+True answer: It took a long time to open.
+False answer: It was too big.
+False answer: It had too many passengers.
+False answer: It was not well equipped.
+
+----------------------------------------------------------------------------------------
+
+Excel row: 41 Test instance: 352
+
+Facebook users may feel socially successful in the web world but they are more likely to perform poorly in exams. The majority of students who use Facebook every day are doing badly compared with those who don't. About 83% of British 16 to 24-year-old people are using social networking site such as Facebook and MySpace, to keep in touch with friends and organize their social activities.
+"Our study shows people who spend more time on Facebook spend less time studying," said Aryn Karpinski, a researcher. "Every generation has its distractions , but I think Facebook is a unique phenomenon." Karpinski and a colleague questioned 219 US undergraduates and graduates about their study and general Internet use, as well as their specific use of Facebook. They found 65% of Facebook users accessed their account daily, checking it several times to see if they had received new messages. The amount of time spent on Facebook at each log-in  varied from just a few minutes to more than an hour.
+Some UK students have already realized the potential danger. Daisy Jones, 21, an undergraduate, realized the time she was spending on Facebook was threatening her grades, urging her to deactivate  her account, "I was in the library and tried to write a 2,000-word essay when I realized my Facebook habit had got out of hand," she said. "I couldn't resist going online, when thinking about it. Before you know it , a couple of minutes have turned into a couple of hours and you haven't written a word."
+Jones is among the few to have realized the risks. 79% of the users, however, believed the time they spent on the site had no impact on their work. The CEO of Facebook said, "There is also academic research that shows the benefits of services like Facebook. It's in the hands of students to decide how to spend their time."
+
+Original quiz:
+Question: Why did Daisy Jones deactivate her account?
+True answer: Spending much time on Facebook affected her study
+False answer: She wanted to write a long article in the library.
+False answer: She was warned about the risk of using Facebook.
+False answer: There was something wrong with her eyes.
+
+Generated quiz:
+Question: How many students are using Facebook daily according to the study?
+False answer: About 83% of them.
+False answer: About 79% of them.
+False answer: About 65% of them.
+True answer: About 83% of them.
+
+----------------------------------------------------------------------------------------
+
+Excel row: 48 Test instance: 415
+
+A 13-year-old American boy on Saturday became the youngest climber to conquer Mount Everest, the world's highest mountain.
+Jordan Romero from Big Bear, California, climbed up the 8,850-meter summit   from the Tibetan side. On the same day, a Nepali   man, Apa Sherpa, broke his own world record of climbing Everest when he reached the summit for the twentieth time. Apa Shepa's team set off from Nepal's capital, Kathmandu, last month, heading for the base camp on the Chinese side of the mountain.
+"The team has just called in and believe that they are standing on top of Mt. Everest," Romero's blog said. "Their dreams have now come true. Everyone is happy."
+The climbing has put Romero one step closer to reaching his goal of climbing the highest mountains on all seven continents  . "It is just a goal." Romero said. He had already climbed five peaks  , and needs to climb only Vinson Massif, the highest peak in Antarctica, to hit his goal.
+The youngest person before to climb Everest was 16-year-old Temba Tsheri Sherpa of Nepal. Romero climbed together with a team including his father Paul and three local guides. He wanted to pick a small piece of rock from the top of the world and wear it in a necklace. While Nepal insists that anyone planning to climb Mount Everest must be at least 16, China does not have any age restrictions  . Some mountain climbers haven't agreed with the Romero family for letting him try it but his father said the climbing from the Chinese side is less dangerous.
+
+Original quiz:
+Question: Why did Jordan Romero choose to climb from the Chinese side of Mount Everest?
+False answer: It wasn't far from Jordan's base camp on the Chinese side.
+False answer: There were more local guides on the Chinese side.
+True answer: China allows climbers of any age to climb Mt. Everest.
+False answer: There were more challenges on the Chinese side.
+
+Generated quiz:
+Question: What did Jordan Romero want to do on Mount Everest?
+False answer: To make a necklace with a piece of rock from the top of the world.
+False answer: To climb Mount Everest by himself.
+False answer: To pick a small piece of rock from the top of the world and wear it in a necklace.
+True answer: To wear a piece of rock from the top of the world.
+
+----------------------------------------------------------------------------------------
+
+Excel row: 52 Test instance: 451
+
+Hair has always been an important sign of beauty, especially true for women.Next to the face, hair is one of the main qualities people look for when they consider a woman's beauty.Whether long or short, curly or straight, hair often gets a lot of attention.
+Each hair grows independently of other hairs.Not all hairs experience the same period of growth at the same time.During the period of active growth, which is called Anagen, hair grows at a rate of about or one centimeter a month.About eighty five percent of hair follicles  are going through this process at any given time.This period can last from two to six years.
+The Catagen period of hair growth comes next.It is then that hair growth begins to slow down.This period usually lasts two or three weeks.Finally, hair growth comes to a complete stop and the hairs begin to fall out.This period is known as Telogen.Once the Telogen period has ended, the hair growth process begins again.
+So what happens when a person has trouble growing hair or suffers from hair loss? Your genes control how fast or how long your hair will grow.Some people have a longer than usual anagen growth period.These people may be able to grow more hair than the average person.
+However, others struggle to grow shoulder length hair.These people have a shorter than normal anagen period.
+Your health can also affect hair growth.Poor nutrition can cause some hair follicles to stop growing or cause the hairs that grow to become weak or thin.Problems with hair growth can result from thyroid (^?K JSO problems or other conditions.Health experts say people who experience a sudden increase in hair loss should seek medical advice.
+
+Original quiz:
+Question: What is suggested by health experts when one suffers from a sudden increase in hair loss?
+False answer: Cutting all his hair off.
+False answer: Eating more vegetables.
+False answer: Changing his genes.
+True answer: Going to see a doctor.
+
+Generated quiz:
+Question: What is the most likely reason why some people suffer from hair loss?
+False answer: A medical condition.
+True answer: Poor nutrition.
+False answer: Too much hair cutting.
+False answer: Too much hair washing.
+
+----------------------------------------------------------------------------------------
+
+Excel row: 61 Test instance: 532
+
+We might not be alone in the universe. Actually, it may be confirmed as a very crowded place by new computer models developed to help identify habitable planets.
+Estimates of places where life can exist have been based on the possibility of them having surface water. But software recently developed by the Aberdeen University allows researchers to identify planets with underground water kept liquid by heat from planets.
+Water is fundamental for life and planets too close to the sun lose water to the atmosphere through evaporation. On the other hand, planets located in distant reaches from their star have their surface water locked away as ice.
+Sean McMahon, who is carrying out the work, explained: "Traditionally people have said that if a planet is in this Goldilocks zone--not too hot and not too cold--then it can have liquid water on its surface and be habitable."
+But this concept might change when considering that planets can receive two sources of heat--heat direct from the star and heat generated deep inside the planet.
+It is easy to observe it in our own planet. As you go down through the crust   of the Earth, the temperature gets higher and higher. Even when the surface is frozen, water can exist below ground.
+There could be immense quantities of water in fact--full of primitive life.
+Professor John Parnell, also from Aberdeen University said: "There is a significant habitat for microorganisms below the surface of the Earth, extending down several kilometres".
+"And some believe that the majority of life on Earth could even reside in this deep biosphere."
+So the Aberdeen team are developing models to predict which distant planets might harbour underground reservoirs of liquid water with the possibility of alien life.
+
+Original quiz:
+Question: What theory is the Aberdeen team's study based on?
+False answer: Planets can receive heat direct from the star.
+False answer: Planets can have their surface water locked away as ice.
+False answer: Planets can lose water through evaporation.
+True answer: Planets can receive heat generated deep inside the planet.
+
+Generated quiz:
+Question: What is the key to the possibility of alien life existing on a distant planet?
+False answer: It must receive two sources of heat--heat direct from the star and heat generated deep inside the planet.
+True answer: Water will exist underground as long as the planet is not too hot or too cold.
+False answer: Water will exist underground as long as the planet is not too hot or too cold.
+False answer: The planet must be in the Goldilocks zone.
+
+----------------------------------------------------------------------------------------
+
+Excel row: 73 Test instance: 640
+
+When you look up into the sky at night, have you ever felt that your eyes are playing tricks on   you? It seems that the stars are moving all the time.
+Actually, there is nothing wrong with your eyes. This twinkling effect is called scintillation  . Scintillation happens because of air movements in the earth's atmosphere  . Light is "bent  " when it travels through different parts of the earth's atmosphere. As the air in the earth's atmosphere is moving all the time, the light from the stars looks as if it is moving too.
+The same thing also happens to things on the ground. On a very hot and shiny day, if you look at the road, the image in the distance is not clear and things move slightly. You can also see the same effect if you drop a rock into water. The rock appears a little unclear under the moving water.
+This twinkling effect causes a lot of problems for astronomers   since they cannot _ the stars clearly. A telescope   was sent into space so that the air movements in the atmosphere could be avoided  . It took a long time to build the space telescope but finally in 1990, a huge space telescope called the Hubble Space Telescope was successfully sent into space. Since then, astronomers have many important observations that have helped people understand space better.
+,.  (10)
+
+Original quiz:
+Question: What can you see when you drop a rock into the water?
+False answer: The water does not move anymore.
+True answer: The rock becomes unclear.
+False answer: The water becomes much polluted.
+False answer: The rock gets broken.
+
+Generated quiz:
+Question: What causes scintillation?
+False answer: The stars.
+False answer: The earth's atmosphere.
+True answer: Air movements in the earth's atmosphere.
+False answer: Light.
+
+----------------------------------------------------------------------------------------
+
+Excel row: 74 Test instance: 649
+
+Chinese young people love their smart phones.They play with phone apps every day.But now, a book has let them forget about their phones.The book is called Secret Garden.
+It is a colouring book for adults'.You don't have to read it, because it has almost no words.All the pages are pictures but no colours.You just need to use colour pens to paint it.An artist in Britain made the book.
+The book is now the biggest selling book on amazon.Cn.last month, it sold 25,000 copies in China.Many young people bought this book.They like it so much that they stop playing games or surfing the Internet on their phones.These people are mainly young mothers and workers.It is very difficult to take care of babies or do a good job at first, so they feel a lot of pressure.Drawing the book can help them become less nervous.
+In the past, people thought colouring books are only for children.With Secret Garden getting more and more popular, many young adults also begin to paint as a hobby.
+
+Original quiz:
+Question: What made Chinese young people forget about their phones?
+False answer: Colours.
+False answer: Games.
+False answer: Housework.
+True answer: A book.
+
+Generated quiz:
+Question: Why do many young people like to colour the book?
+False answer: Because they can earn much money.
+False answer: Because they think it is interesting.
+True answer: Because it is a way to relax themselves.
+False answer: Because they like to show their talent.
+
+----------------------------------------------------------------------------------------
+
+Excel row: 86 Test instance: 757
+
+British food is very different from Chinese food. For example, they eat a lot of potatoes.They like to eat them every day.They eat a lot of bread with butter for breakfast and usually for one other meal. Butter is made from milk.They do not eat much rice.For their dinner they like meat or fish with potatoes and one or two other vegetables.They cook all this together.After dinner they always have something sweet.They do not have dumplings.They drink a lot of tea.They are the biggest tea drinkers in the world.They like Chinese tea, but they usually drink strong black tea from India.
+
+Original quiz:
+Question: What is butter made from?
+False answer: Water
+False answer: Drink
+True answer: Milk
+False answer: Tea.
+
+Generated quiz:
+Question: What do they drink a lot?
+False answer: Milk.
+True answer: Tea.
+False answer: Coffee.
+False answer: Water.
+
+----------------------------------------------------------------------------------------
+
+Excel row: 88 Test instance: 775
+
+There was a new maths teacher and some new students in the school. One of the new students named Karl was very _ . The other students tried to explain   numbers to him, but he didn't understand.
+Before Karl arrived, maths was the most boring lesson of all. Now it was great fun. The children would listen to Karl and correct his mistakes. They all wanted to be the first to find his mistakes, and then tried to think up the best ways to explain them.
+But little Lewis was sure that Karl felt sad and wanted to talk with him. So, one day, he decided to walk after Karl after school. Lewis was sure he would see him crying. On the way home, Karl walked a few minutes to a park, and there he waited for someone to meet him...
+It was the new teacher!
+They went off, hand in hand. Lewis could hear them talking about maths. And that stupid Karl knew everything about it, and even much more than anyone else in the class!
+
+Original quiz:
+Question: Which lesson was the most boring of all before Karl arrived?
+False answer: English.
+False answer: Chinese.
+True answer: Maths.
+False answer: Music.
+
+Generated quiz:
+Question: Why did Karl like the new maths teacher?
+False answer: Because he explained numbers clearly.
+True answer: Because he thought maths was interesting.
+False answer: Because he was good at maths.
+False answer: Because he made him feel at home.
+
+----------------------------------------------------------------------------------------
+
+Excel row: 93 Test instance: 820
+
+Today is the fifth day of August. It is Judy's birthday. When she comes back home from school, she sees a card on the table. It says, "There's a present   for you, Judy. Look for it in your bedroom." Judy runs into her bedroom. Her parents are looking at her and _ . On the chair she sees a red box. She thinks her present must be in it. She opens it, and there is a piece of paper in it. She reads it, "Dear Judy, I'm your present. My first letter is in the word 'bag', but not in 'age'. My second letter is in 'like', but not in 'lake'. My third letter is in "know", but not in 'now'. And you can find my last letter in both 'desk' and 'get'. What am I?" Judy thinks for a while and says, "Aha, I know. But where is it?" Her father tells her it is in her study.
+What is it? Do you know?
+. (5)
+
+Original quiz:
+Question: What is Judy's present?
+False answer: A bag.
+True answer: A bike.
+False answer: A book.
+False answer: A desk.
+
+Generated quiz:
+Question: What is Judy's birthday?
+False answer: September 1st.
+False answer: September 2nd.
+False answer: August 4th.
+True answer: August 5th.
+
+----------------------------------------------------------------------------------------
+
+Excel row: 94 Test instance: 829
+
+Li Ruyan, 13 and his classmates in Shanghai did something special last summer. They worked in groups with traffic police at different crossroads in the city. Holding small red flags, the students helped keep order and stopped people from jaywalking .
+As part of the school project. Li's school has encouraged its students to do more community work.
+After the half day of exhausting work Li told himself not to jaywalk anymore.
+"I think through community work we get to help others and, more importantly, we grow a sense of responsibility ," he said.
+Community service is an important part of education for teenagers around the world. In the US and Canada, high school students need to finish 40 hours of community service before graduation. For those Americans who have finished 1,400 hours of community work, they can be awarded nearly $ 5, 000(33, 000 yuan).
+Chinese students today do more community work, too. For example, starting from 2010, Sichuan high school students have been asked to do 10 days of community work. It will become part of their school grade.
+Qian Lijun, 16, and her classmates in Suzhou, Jiangsu went to a local elder care home this winter. They put Spring Festival couplets   on the walls and cheered up the people living there.
+Li Xiaotian, 15, of Anshan said he used to clear flyers   from telephone poles   with his classmates. They brought tools, towels and buckets and worked for three hours under the summer sun. "It was tiring, but seeing the clean poles without ugly ads -- we really felt proud," he said.
+
+Original quiz:
+Question: What was the special thing Li Ruyan did last summer?
+False answer: He joined a special group of Class13.
+False answer: He become a policeman.
+False answer: He stopped people from talking.
+True answer: He helped the traffic police at a crossroad.
+
+Generated quiz:
+Question: What did Li Ruyan do in the summer?
+False answer: He did community work.
+True answer: He helped others.
+False answer: He made a phone call.
+False answer: He visited the city.
+
+----------------------------------------------------------------------------------------
+
+Excel row: 100 Test instance: 883
+
+"I'm so sorry. It was all my fault, with no excuse and no reason," said the 23-year-old Taiwan actor, Kai Ko or Ko Chen-tung  , bowing to the press conference  . Ko apologized publically for taking drugs   with friends at his house in Beijing"It was my personal behavior, selfish and stupid. I cannot go back in time to undo what I did, but there is willingness to correct a mistake. I want to correct my mistake, because I don't want to see the sad faces of those who love me and those who I love. I am really sorry to them."Ko said.
+Ko became very famous and popular after starring in the film called You Are the Apple of My Eye in 2011. His clean and youthful image won him many fans. For those fans, they are willing to trust Ko. By the end of the 10-minute press conference, 3,207 users of Sina Weibo   supported Ko and hoped he would be a better person in the future.
+However, there were other voices. Wang Zhuo, a user of Sina Weibo said, " It doesn't matter whether he apologizes or not, because nobody cares. Showbiz and the arts industry   will not use anyone like him from now on anyway." Another user said, "After 14 days of detention  , Ko's acting skills grew a lot!"
+When asked what his plans are after he regained freedom, Ko said he would continue to cooperate with the police on further investigations   after returning to Taiwan.
+
+Original quiz:
+Question: What made Ko become famous?
+False answer: The song called You Are the Apple of My Eye.
+False answer: His background.
+False answer: His good looking.
+True answer: The film You Are the Apple of My Eye.
+
+Generated quiz:
+Question: What did Ko Chen-tung do in Beijing?
+False answer: He went to the cinema by himself.
+False answer: He fought with his girlfriend.
+False answer: He made a lot of money.
+True answer: He took drugs with some friends.
+
+----------------------------------------------------------------------------------------
+

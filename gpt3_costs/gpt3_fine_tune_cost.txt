@@ -1,0 +1,18 @@
+Total tokens completion 1: 26954456
+Finetune cost completion 1: $80.86
+
+Total tokens completion 2: 26954456
+Finetune cost completion 2: $80.86
+
+Total tokens completion 3: 30190836
+Finetune cost completion 3: $90.57
+
+Total tokens completion 4: 29324604
+Finetune cost completion 4: $87.97
+
+Total tokens completion 5: 26162816
+Finetune cost completion 5: $78.49
+
+Total tokens completion 6: 29250600
+Finetune cost completion 6: $87.75
+
