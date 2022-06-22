@@ -41,7 +41,7 @@ Experiment 6: End-to-End Quiz Generation (EEQG)
     - key-race: Original data from EQG-RACE (https://github.com/jemmryx/EQG-RACE)
     - macaw_evaluation_scripts: Scripts to evaluate the experiments on the test data with Macaw-11b
     - processed_data: Combined EQG-RACE with original RACE data
-    - user_centric_expriment: Contains the preprocessing script, result script, user-centric experiment, and results
+    - user_centric_experiment: Contains the preprocessing script, result script, user-centric experiment, and results
     - gpt3_finetune_instructions.txt: Instructions to fine-tune GPT-3
     - macaw_completion.py: Script to perform completion on the test data with Macaw-11b
     - preprocess_data.py: Script to combine EQG-RACE with original RACE data
@@ -49,7 +49,7 @@ Experiment 6: End-to-End Quiz Generation (EEQG)
 
 # How to reproduce the results?
 
-System-centric:
+**System-centric:**
 
     - Fine-tune the GPT-3 models with the training/validation files from the processed_data directory using the instructions in gpt3_finetune_instructions.txt
     - Run all gpt3_completion_scripts with the created fine-tuned GPT-3 models
@@ -59,7 +59,7 @@ System-centric:
 
 note: look carefully which files are required for which completion/evaluation.
     
-User-centric:
+**User-centric:**
 
     - Run generate_user_centric_experiment.ipynb to get the user-centric experiment input
     - Run process_results.ipynb to get the results
